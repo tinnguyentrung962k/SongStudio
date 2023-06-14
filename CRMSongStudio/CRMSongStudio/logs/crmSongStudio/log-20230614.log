@@ -1,0 +1,10 @@
+2023-06-14T20:09:58.5924858+07:00 [INF] () start get thoi-tiet
+2023-06-14T20:09:58.8010377+07:00 [INF] () [{"Date":"2023-06-15T20:09:58.6433508+07:00","TemperatureC":37,"TemperatureF":98,"Summary":"Warm"},{"Date":"2023-06-16T20:09:58.6436863+07:00","TemperatureC":6,"TemperatureF":42,"Summary":"Sweltering"},{"Date":"2023-06-17T20:09:58.6436883+07:00","TemperatureC":7,"TemperatureF":44,"Summary":"Scorching"},{"Date":"2023-06-18T20:09:58.6436885+07:00","TemperatureC":38,"TemperatureF":100,"Summary":"Sweltering"},{"Date":"2023-06-19T20:09:58.6436886+07:00","TemperatureC":-10,"TemperatureF":15,"Summary":"Mild"}]
+2023-06-14T20:50:17.2330189+07:00 [INF] () Start add new song
+2023-06-14T20:50:17.5179354+07:00 [INF] () {"Id":1,"Name":"Con Trai Cung","Description":"Con trai cung cua me","Price":10000.0,"Author":"B Ray"}
+2023-06-14T21:18:02.9715819+07:00 [INF] () Update Song
+2023-06-14T21:18:18.9815935+07:00 [INF] () Update Song
+2023-06-14T21:18:20.3848566+07:00 [INF] () Update Song
+2023-06-14T21:18:38.0617722+07:00 [INF] () Update Song
+2023-06-14T21:24:58.7943801+07:00 [INF] () Update Song
+2023-06-14T21:24:58.9062090+07:00 [INF] () {"Id":0,"Name":"Ex's Hate Me 2","Description":"string","Price":10000.0,"Author":"string"}

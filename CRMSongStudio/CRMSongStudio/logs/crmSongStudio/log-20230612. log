@@ -1,0 +1,6 @@
+2023-06-12T23:14:59.3503163+07:00 [INF] () start get thoi-tiet
+2023-06-12T23:14:59.7141033+07:00 [INF] () System.Collections.Generic.List`1[CRMSongStudio.WeatherForecast]
+2023-06-12T23:16:40.4728396+07:00 [INF] () start get thoi-tiet
+2023-06-12T23:16:40.6876617+07:00 [INF] () System.Collections.Generic.List`1[CRMSongStudio.WeatherForecast]
+2023-06-12T23:20:41.6628388+07:00 [INF] () start get thoi-tiet
+2023-06-12T23:20:41.8800699+07:00 [INF] () [{"Date":"2023-06-13T23:20:41.7052333+07:00","TemperatureC":18,"TemperatureF":64,"Summary":"Chilly"},{"Date":"2023-06-14T23:20:41.7055837+07:00","TemperatureC":35,"TemperatureF":94,"Summary":"Scorching"},{"Date":"2023-06-15T23:20:41.7055858+07:00","TemperatureC":5,"TemperatureF":40,"Summary":"Chilly"},{"Date":"2023-06-16T23:20:41.705586+07:00","TemperatureC":42,"TemperatureF":107,"Summary":"Warm"},{"Date":"2023-06-17T23:20:41.7055861+07:00","TemperatureC":28,"TemperatureF":82,"Summary":"Mild"}]
